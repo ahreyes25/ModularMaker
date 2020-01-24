@@ -1,0 +1,1 @@
+return (mouse_x >= menu_x && mouse_x <= menu_x + menu_width && mouse_y >= menu_y && mouse_y <= menu_y + menu_height);

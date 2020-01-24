@@ -1,0 +1,10 @@
+Componet
+	- sprite
+	- x y position
+	- layer
+	- rotation
+	- palette swapping?
+	- anchor points & snap points
+	
+Export Sprite
+Some Saving/Loading Feature?

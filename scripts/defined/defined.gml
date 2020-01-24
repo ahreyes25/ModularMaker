@@ -1,0 +1,1 @@
+return (argument0 != noone && argument0 != undefined && argument0 != -1);
